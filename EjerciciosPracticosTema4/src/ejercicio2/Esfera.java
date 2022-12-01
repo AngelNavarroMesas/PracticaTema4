@@ -4,7 +4,7 @@ public class Esfera {
 	
 	static double radio;
 	
-	static double Superficie() {
+	static double superficie() {
 		
 		double superficie;
 		
@@ -13,7 +13,7 @@ public class Esfera {
 		return superficie;
 	}
 	
-	static double Volumen() {
+	static double volumen() {
 		
 		double volumen;
 		

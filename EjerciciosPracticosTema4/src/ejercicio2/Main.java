@@ -11,8 +11,8 @@ public class Main {
 		System.out.println("Introduzca el radio de la esfera");
 		Esfera.radio = sc.nextInt();
 		
-		System.out.println("La superfifie de la esfera es: "+esf.Superficie());
-		System.out.println("El volumen de la esfera es: "+esf.Volumen());
+		System.out.println("La superfifie de la esfera es: "+esf.superficie());
+		System.out.println("El volumen de la esfera es: "+esf.volumen());
 		
 	}
 
