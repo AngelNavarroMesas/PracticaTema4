@@ -20,9 +20,9 @@ public class Main {
 		System.out.println();
 		
 		System.out.println("Introduzca un numero para hacer una potencia");
-		numpot = sc.nextInt();
-		System.out.println("Introduzca la potencia");
 		a = sc.nextDouble();
+		System.out.println("Introduzca la potencia");
+		numpot = sc.nextInt();
 		
 		System.out.println(fr.potencia(a, numpot));
 		
